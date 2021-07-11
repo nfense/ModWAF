@@ -1,6 +1,6 @@
 using System.Net;
 
-namespace ModWAF.Modules
+namespace Nfense.ModWAF.Modules
 {
     public class XSSModule : WAFModule
     {

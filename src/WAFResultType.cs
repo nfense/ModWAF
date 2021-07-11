@@ -1,4 +1,4 @@
-namespace ModWAF
+namespace Nfense.ModWAF
 {
     public enum WAFResultType
     {

@@ -1,6 +1,6 @@
-using ModWAF.Modules;
+using Nfense.ModWAF.Modules;
 
-namespace ModWAF
+namespace Nfense.ModWAF
 {
     public class WAFResult
     {
