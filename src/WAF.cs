@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Net;
-using Waffle.Modules;
+using ModWAF.Modules;
 
 namespace ModWAF
 {
